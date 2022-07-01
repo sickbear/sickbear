@@ -1,5 +1,8 @@
 ![Header](https://apispn.ru/dev/img/sickbear.jpg)
 
+## Python is an amazing programming language, but JavaScript makes me money. 😄
+
+
 <!--
 **sickbear/sickbear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
