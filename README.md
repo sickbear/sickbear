@@ -1,6 +1,6 @@
 ![Header](https://apispn.ru/dev/img/sickbear.jpg)
 
-## Python is an amazing programming language, but JavaScript makes me money. 😄
+## Just a coder...
 
 #### Languages: 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f8db1b?style=for-the-badge) ![HTML](https://img.shields.io/badge/-HTML/CSS-fc4e01?style=for-the-badge) ![Python](https://img.shields.io/badge/-Python-0162af?style=for-the-badge) ![SQL](https://img.shields.io/badge/-SQL-e3ee88?style=for-the-badge)
