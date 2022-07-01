@@ -2,5 +2,5 @@
 
 ## Python is an amazing programming language, but JavaScript makes me money. 😄
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-f8db1b) ![Python](https://img.shields.io/badge/-Python-0162af) ![HTML](https://img.shields.io/badge/-HTML/CSS-fc4e01) ![SQL](https://img.shields.io/badge/-SQL-e3ee88)
+![JavaScript](https://img.shields.io/badge/-JavaScript-f8db1b) ![HTML](https://img.shields.io/badge/-HTML/CSS-fc4e01) ![Python](https://img.shields.io/badge/-Python-0162af) ![SQL](https://img.shields.io/badge/-SQL-e3ee88)
 
